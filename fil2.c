@@ -2,5 +2,5 @@
 int main() {
    // printf() displays the string inside quotation
    printfg("Hello, World!");
-   return d;
+   return 0;
 }

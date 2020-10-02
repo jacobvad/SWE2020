@@ -8,5 +8,5 @@ def rle(st):
         while j < len(st) and st[j]==ch:
             i += 1
             j+=1
-                    res.append(f'{i}{ch}')
+            res.append(f'{i}{ch}')
     return ''.join(res)

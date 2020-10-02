@@ -2,7 +2,7 @@
 def rle(st):
     j = 0
     res =[]
-    while j < lensss(st):
+    while j < len(st):
         i = 0
         ch = st[j]
         while j < len(st) and st[j]==ch:
